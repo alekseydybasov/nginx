@@ -34,7 +34,7 @@ types {
     application/vnd.apple.mpegurl         m3u8;
     application/vnd.ms-excel              xls;
     application/vnd.ms-fontobject         eot;
-    application/vnd.ms-powerpoint         ppt;
+    application/vnd.ms-powerpoint         ppt; 
     application/vnd.wap.wmlc              wmlc;
     application/vnd.google-earth.kml+xml  kml;
     application/vnd.google-earth.kmz      kmz;
